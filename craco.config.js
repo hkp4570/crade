@@ -1,4 +1,5 @@
 const CracoLessPlugin = require("craco-less");
+const { resolve } = require("path");
 module.exports = {
     plugins: [
         {
@@ -15,4 +16,10 @@ module.exports = {
             },
         },
     ],
+    webpack: {
+        alias: {
+            "@": resolve(__dirname, "src"),
+            "@components": resolve(__dirname, "src/components"),
+        },
+    },
 };
