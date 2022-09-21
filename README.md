@@ -12,3 +12,7 @@ create-react-app 脚手架扩展
 cra 默认支持 scss index.module.less 开启 cssModule
 作为 craco 插件使用
 如果想要使用 antd 你应该使用 craco-antd 插件
+
+### .env .env.development .env.production
+
+[参考](https://blog.csdn.net/CEZLZ/article/details/108100460)
