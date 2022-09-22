@@ -16,3 +16,7 @@ cra 默认支持 scss index.module.less 开启 cssModule
 ### .env .env.development .env.production
 
 [参考](https://blog.csdn.net/CEZLZ/article/details/108100460)
+
+### git 提交验证
+
+[参考](https://github.com/conventional-changelog/commitlint)
