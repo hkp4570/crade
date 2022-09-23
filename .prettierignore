@@ -1,0 +1,12 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+**/.svg
+**/.husky
+
+build
+coverage
+
+*.html
