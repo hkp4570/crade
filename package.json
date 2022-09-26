@@ -65,6 +65,9 @@
     "lint-staged": {
         "*.{js,jsx,ts,tsx}": [
             "eslint --fix"
+        ],
+        "*.{css,less,sass,scss}": [
+            "stylelint --fix"
         ]
     }
 }
