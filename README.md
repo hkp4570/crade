@@ -21,7 +21,8 @@ cra 默认支持 scss index.module.less 开启 cssModule
 
 [参考](https://github.com/conventional-changelog/commitlint)
 
-### eslint + prettier
+### eslint + prettier + stylelint
 
 [prettier](https://prettier.io/docs/en/index.html)
 [eslint](https://eslint.org/docs/latest/)
+[stylelint](https://stylelint.io/)
